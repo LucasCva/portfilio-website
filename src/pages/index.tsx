@@ -22,10 +22,10 @@ export default function Home() {
   // Dados dos projetos
   const projects = [
     {
-      title: "Projeto 1",
-      description: "Descrição rápida e objetiva do projeto 1.",
-      image: "/projeto1.jpg",
-      link: "https://github.com/LucasCva/portfilio-website",
+      title: "Backend Estoque",
+      description: "Backend completo de um app real de controle de estoque.",
+      image: "/estoque.jpg",
+      link: "https://github.com/LucasCva/estoque-backend",
     },
     {
       title: "Projeto 2",
